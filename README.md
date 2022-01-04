@@ -79,7 +79,7 @@ Follow [this guide](https://docs.expo.io/workflow/ios-simulator/) for more detai
 
 <img src="https://github.com/kushaldelhiwala/SpeedySpot/blob/master/Documents/App%20Screenshots/speedy_checkOut.png" width="300" height="630"> <img src="https://github.com/kushaldelhiwala/SpeedySpot/blob/master/Documents/App%20Screenshots/speedy_scoreboard.png" width="300" height="630"> <img src="https://github.com/kushaldelhiwala/SpeedySpot/blob/master/Documents/App%20Screenshots/speedy_preferences.png" width="300" height="630">
 ## Authors
-Kushal Delhiwala and Austin Bielger Stony Brook University.
+Kushal Delhiwala and Austin Biegler Stony Brook University.
 ## Acknowledgements
 Thanks to Professor Scarlatos, the Department of Parking and Transportation Services, the Honors College and the Computer Science Department for all their assistance throughout this project. 
 
