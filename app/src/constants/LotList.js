@@ -1,0 +1,40 @@
+/**
+ * List of parking lots supported by the application.
+ */
+const LotList = [
+  { label: 'Gym Road Commuter', value: 1 },
+  { label: 'North P Lot', value: 2 },
+  { label: 'South P Lot', value: 3 },
+  { label: 'Kelly Lot (Commuter)', value: 4 },
+  { label: 'Stadium Lot', value: 33 },
+  { label: 'Admin Overflow', value: 5 },
+  { label: 'Infirmary', value: 6 },
+  { label: 'Old H', value: 7 },
+  { label: 'Math/Physics', value: 8 },
+  { label: 'Computing Center (F/S)', value: 9 },
+  { label: 'Gym Road (F/S)', value: 10 },
+  { label: 'Tabler Surface Lot (F/S)', value: 11 },
+  { label: 'Stimson Lot', value: 12 },
+  { label: 'Keller Lot', value: 13 },
+  { label: 'Roosevelt South Road', value: 14 },
+  { label: 'Greeley Lot', value: 15 },
+  { label: 'West Apartments', value: 16 },
+  { label: 'Kelly Lot', value: 17 },
+  { label: 'Schomburg Apts', value: 18 },
+  { label: 'Douglass Lot', value: 19 },
+  { label: 'Dresier Lot', value: 20 },
+  { label: 'Sanger Lot', value: 21 },
+  { label: 'Hand Lot', value: 22 },
+  { label: 'Mount Lot', value: 23 },
+  { label: 'Hendrix Lot', value: 24 },
+  { label: 'Gershwin Lot', value: 25 },
+  { label: 'Whitman Lot', value: 26 },
+  { label: 'East Side of Lake Drive', value: 27 },
+  { label: 'Mendelsohn & H Lot', value: 28 },
+  { label: 'Benedict Lot', value: 29 },
+  { label: 'Langmuir Lot', value: 30 },
+  { label: 'Chapin Apts', value: 31 },
+  { label: 'LIRR', value: 32 },
+];
+
+export default LotList;
